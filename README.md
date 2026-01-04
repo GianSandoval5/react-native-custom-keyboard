@@ -16,6 +16,13 @@ A fully customizable in-app keyboard for React Native with smooth animations, mu
 🔧 **Predefined Layouts** - Ready-to-use numeric and alphabetic keyboards  
 📦 **Zero Config** - Works out of the box with automatic safe area handling  
 
+## Screenshots
+
+<div align="center">
+  <img src="./assets/1.png" alt="Numeric Keyboard" width="45%" />
+  <img src="./assets/2.png" alt="Alphabetic Keyboard" width="45%" />
+</div>
+
 ## Installation
 
 ```sh
