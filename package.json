@@ -79,12 +79,14 @@
     "react": "19.1.0",
     "react-native": "0.81.5",
     "react-native-builder-bob": "^0.40.13",
+    "react-native-safe-area-context": "^5.6.2",
     "release-it": "^19.0.4",
     "typescript": "^5.9.2"
   },
   "peerDependencies": {
     "react": "*",
-    "react-native": "*"
+    "react-native": "*",
+    "react-native-safe-area-context": "*"
   },
   "workspaces": [
     "example"
@@ -156,5 +158,9 @@
       "eslint"
     ],
     "version": "0.56.0"
+  },
+  "dependencies": {
+    "react-native-gesture-handler": "^2.30.0",
+    "react-native-worklets": "0.5.1"
   }
 }
