@@ -1,6 +1,6 @@
 {
   "name": "react-native-custom-keyboard-pro",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A fully customizable in-app keyboard for React Native with smooth animations and multiple layouts",
   "main": "./lib/module/index.js",
   "types": "./lib/typescript/src/index.d.ts",
