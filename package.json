@@ -1,6 +1,6 @@
 {
   "name": "react-native-custom-keyboard",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "A fully customizable in-app keyboard for React Native with smooth animations and multiple layouts",
   "main": "./lib/module/index.js",
   "types": "./lib/typescript/src/index.d.ts",
@@ -43,7 +43,17 @@
   "keywords": [
     "react-native",
     "ios",
-    "android"
+    "android",
+    "web",
+    "keyboard",
+    "custom-keyboard",
+    "in-app-keyboard",
+    "numeric-keyboard",
+    "alpha-keyboard",
+    "react-native-keyboard",
+    "keyboard-input",
+    "expo",
+    "typescript"
   ],
   "repository": {
     "type": "git",
